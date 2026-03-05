@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+    color: black;
+
+}
+.big-title{
+    font-size: 4rem;
+    font-style: bold;
+}
